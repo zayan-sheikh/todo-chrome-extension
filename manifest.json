@@ -5,6 +5,6 @@
   "version" : "1.0",
   "action" : {
     "default_popup" : "homeworkReminder.html",
-    "default_icon" : "icon16.png"
+    "default_icon" : "./images/icon16.png"
   }
 }
